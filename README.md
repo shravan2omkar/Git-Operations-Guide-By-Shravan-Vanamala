@@ -18,6 +18,18 @@ You are free to:
 **Under the following terms:**
 - **Attribution** — You must give appropriate credit to **Shravan Kumar Vanamala**, provide a link to the license, and indicate if changes were made.
 
-- [📘 Download Git Operations Guide](Git_Operations_Guide.pdf)
-
 © 2025 Shravan Kumar Vanamala
+
+---
+
+## 📥 Download the Guide
+
+[📘 Git Operations Guide PDF](Git_Operations_Guide.pdf)
+
+---
+
+## 🛠️ How to Use This Guide
+
+This PDF is designed for developers, support analysts, and teams who want to master Git workflows.  
+Use it as a reference for daily operations, weekly cleanup, monthly audits, and yearly repo hygiene.  
+Feel free to share, remix, or adapt—with proper credit to Shravan Kumar Vanamala.
